@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/elijahwooten/Desktop/Side_Projects/YouTube Videos/Yelp Business Data/.venv"
+VIRTUAL_ENV="/Users/elijahwooten/Desktop/Side_Projects/YouTube Videos/Yelp_Business_Data/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
